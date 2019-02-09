@@ -15,3 +15,8 @@ https://fred.stlouisfed.org/tags/series?t=los+angeles
 
 https://egis3.lacounty.gov/dataportal/tag/poverty/
 
+
+Introduction to Machine Learning:  
+
+chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/http://index-of.es/Varios-2/Introduction%20to%20Machine%20Learning%20with%20Python.pdf
+

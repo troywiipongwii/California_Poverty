@@ -4,6 +4,8 @@ This Repository is for data analysis on poverty data in LA and broader CA.  We w
 
 https://www.anaconda.com/download/#download
 
+https://docs.anaconda.com/anaconda/install/windows/
+
 the documentation will guide you through the set up on your environment.   
 
 
